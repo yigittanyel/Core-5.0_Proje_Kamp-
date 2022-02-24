@@ -1,0 +1,17 @@
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\msi\source\repos\Core5.0\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
